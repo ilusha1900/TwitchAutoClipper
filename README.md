@@ -4,6 +4,10 @@
 
 > Note: Chat & Audio spike detection, Smart 9:16 Webcam + Gameplay layout, Anti-detect video uniqueizer + CapCut metadata spoofing Full English & Russian UI supported. It might not work well with English-language chats. I haven’t tested it. Runs on the user's PC using the processor. Support for graphics cards has not yet been added.
 
+### Contact & Custom Features / Связь и доработки
+* **Discord:** `wq4` — for custom features, paid modifications, or business inquiries.
+* **Discord:** `wq4` — по вопросам кастомных фич, платных доработок и сотрудничества.
+
 ## First run via Roma.bat
 
 On a new computer, run `Roma.bat`. `roma_setup.py` and the rest of the project files must be located next to it. The batch file checks for Python 3.11–3.13 x64, creates a local `.venv`, installs NumPy and Streamlink, checks Tkinter, and then downloads static FFmpeg/FFprobe builds into `bin` if working copies are not found. Administrator rights are usually not required; you need an internet connection, a writable folder, and a pre-installed Python with pip and Tcl/Tk. If Python is missing, the batch file stops and shows the official download link. Windows 10/11 x64 is supported; support for arbitrary PCs, Windows ARM64, 32-bit systems, and other operating systems is not guaranteed.
