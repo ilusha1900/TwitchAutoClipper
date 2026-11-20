@@ -2,7 +2,7 @@
 
 **English** | [Русский](#twitchautoclipper-v4--русская-версия)
 
-> Note: the application interface is in Russian. Button and option names below are given in English translation.
+> Note: Chat & Audio spike detection, Smart 9:16 Webcam + Gameplay layout, Anti-detect video uniqueizer + CapCut metadata spoofing Full English & Russian UI supported 
 
 ## First run via Roma.bat
 
