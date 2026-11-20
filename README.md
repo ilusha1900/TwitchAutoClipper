@@ -1,4 +1,6 @@
 # Twitchautoclipper v4
+### Donation - TJ8DBf6bGLS99zCGTUD9pkDFQWc7vkRDdd (Tron)
+
 
 **English** | [Русский](#twitchautoclipper-v4--русская-версия)
 
