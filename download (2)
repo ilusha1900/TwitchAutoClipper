@@ -1,0 +1,64 @@
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+.venv.backup_*/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.egg-info/
+
+# Builds and binaries; keep the checked-in lightweight launcher
+/build/
+/dist/
+*.spec
+*.exe
+!/Twitchautoclipper.exe
+/bin/*
+!/bin/.gitkeep
+
+# Local application data and recordings
+/data/
+buf/
+clips/
+ready/
+failed/
+logs/
+music/
+*.log
+*.tmp
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.ts
+*.mp3
+*.wav
+*.m4a
+*.ogg
+*.flac
+/worker.lock
+/settings.json
+/render.json
+/chat.json
+/sponsor.*
+
+# Local secrets and editor/OS files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated reports and distributable archives
+TEST_RESULTS*.txt
+SHA256SUMS*.txt
+*.zip
