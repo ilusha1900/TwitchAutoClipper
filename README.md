@@ -1,5 +1,10 @@
 # Twitchautoclipper v4
-### Donation - TJ8DBf6bGLS99zCGTUD9pkDFQWc7vkRDdd (Tron)
+### Support & Donations / Поддержать проект
+
+If you find this tool useful, you can support its further development:
+
+* **USDT (TRC-20 / Tron):** `TJ8DBf6bGLS99zCGTUD9pkDFQWc7vkRDdd`
+* **USDT (BEP-20 / BNB Smart Chain):** `0x123B2cBba8790fa7977681740eDdf16Cd526CF52`
 
 
 **English** | [Русский](#twitchautoclipper-v4--русская-версия)
