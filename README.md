@@ -9,7 +9,7 @@ If you find this tool useful, you can support its further development:
 
 **English** | [Русский](#twitchautoclipper-v4--русская-версия)
 
-> Note: Chat & Audio spike detection, Smart 9:16 Webcam + Gameplay layout, Anti-detect video uniqueizer + CapCut metadata spoofing Full English & Russian UI supported. It might not work well with English-language chats. I haven’t tested it. Runs on the user's PC using the processor. Support for graphics cards has not yet been added.
+> Note: Chat & Audio spike detection, Smart 9:16 Webcam + Gameplay layout, Anti-detect video uniqueizer + CapCut metadata spoofing Full English & Russian UI supported. It might not work well with English-language chats. I haven’t tested it. Let me know if it doesn't work well with English-language chats. Runs on the user's PC using the processor. Support for graphics cards has not yet been added.
 
 ### Contact & Custom Features / Связь и доработки
 * **Discord:** `wq4` — for custom features, paid modifications, or business inquiries.
