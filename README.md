@@ -2,7 +2,7 @@
 
 **English** | [Русский](#twitchautoclipper-v4--русская-версия)
 
-> Note: Chat & Audio spike detection, Smart 9:16 Webcam + Gameplay layout, Anti-detect video uniqueizer + CapCut metadata spoofing Full English & Russian UI supported 
+> Note: Chat & Audio spike detection, Smart 9:16 Webcam + Gameplay layout, Anti-detect video uniqueizer + CapCut metadata spoofing Full English & Russian UI supported. It might not work well with English-language chats. I haven’t tested it.
 
 ## First run via Roma.bat
 
